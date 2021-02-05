@@ -7,7 +7,7 @@
   "fsURL": "https://raw.githubusercontent.com/Spark-br/Iot_ID/main/software_3.3.spiffs.bin",
   "prVersion": "1.0",
   "prMandatory": true,
-  "PrURL":"https://dl.dropboxusercontent.com/s/i8cy7kr16khsapn/UpdServ.txt",
+  "PrURL":"https://raw.githubusercontent.com/Spark-br/Iot_ID/main/UpdServ.txt",
   "deviceTokem": "PX4cNvNEyZoeimyd!?",
   "deviceType": "ESP8266",
   "org": "gm0zig"
