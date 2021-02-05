@@ -5,7 +5,7 @@
   "fsVersion": "1.0",
   "fsMandatory": true,
   "fsURL": "https://raw.githubusercontent.com/Spark-br/Iot_ID/main/software_3.3.spiffs.bin",
-  "prVersion": "1.1,
+  "prVersion": "1.1",
   "prMandatory": false,
   "PrURL":"https://raw.githubusercontent.com/Spark-br/Iot_ID/main/UpdServ.txt",
   "deviceTokem": "xxxxxxxxxx",
