@@ -1,15 +1,21 @@
+{
+  "swVersion": "1.1",
   "swMandatory": false,
   "swURL": "https://raw.githubusercontent.com/Spark-br/Iot_ID/main/Blink.ino.generic.bin",
   "fsVersion": "1.0",
   "fsMandatory": false,
   "fsURL": "https://raw.githubusercontent.com/Spark-br/Iot_ID/main/software_3.3.spiffs.bin",
   "prVersion": "1.1",
-  "prMandatory": false,
-  "PrURL":"https://raw.githubusercontent.com/Spark-br/Iot_ID/main/UpdServ.txt",
-  "deviceTokem": "yyyyyyyy",
-  "deviceType": "xxxxxx",
-  "org": "kkkkk"
+  "prMandatory": true,
+  "PrURL":"https://dl.dropboxusercontent.com/s/i8cy7kr16khsapn/UpdServ.txt",
+  "deviceTokem": "xxxxxxxxxxxxx",
+  "deviceType": "yyyyyyyyyy",
+  "org": "kkkkkkkkk"
 }
+
+
+
+
 
 
 
